@@ -1,0 +1,16 @@
+{
+  "name": "arma-init",
+  "description": "A arma 3 server generator",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Kaibu/arma-init",
+  "license": "GPL-3.0",
+  "private": false,
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-route": "~1.5.0",
+    "angular-loader": "~1.5.0",
+    "angular-mocks": "~1.5.0",
+    "html5-boilerplate": "^5.3.0",
+    "angular-bootstrap": "^2.4.0"
+  }
+}
